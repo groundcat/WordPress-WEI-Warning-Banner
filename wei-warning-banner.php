@@ -68,6 +68,8 @@ class WEI_Warning_Banner {
                         padding: 20px;
                         font-size: 16px;
                         z-index: 9999;
+                        word-wrap: break-word;
+                        box-sizing: border-box;
                     }
 
                     #wei-warning a {
